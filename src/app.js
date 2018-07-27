@@ -7,7 +7,7 @@ import createClass from 'create-react-class'
 
 const App = createClass({
     render: function(){
-        return <h1>Aplicação :P</h1>
+        return <h1>Aplicação react com webpack</h1>
     }
 })
 
